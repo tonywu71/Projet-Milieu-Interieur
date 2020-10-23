@@ -15,12 +15,12 @@ Durant cette session, il nous a été proposé d’analyser et de croiser ces do
 
 
 
-Pour des soucis de droits d'auteur, je n'ai pas joint les données au repository.
+Pour des soucis de droits d'auteur, les données utilisées pour générer les figures n'ont pas été ajoutées au repository.
 
 
 
 # Remerciements
 
-Violaine Saint-André et Vincent Guillemot de l'Institut Pasteur
+Violaine Saint-André et Vincent Guillemot de l'Institut Pasteur
 
 Arthur Tenenhaus, professeur à CentraleSupélec
