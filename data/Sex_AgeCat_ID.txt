@@ -1,0 +1,806 @@
+SUBJID	SEX	AGE.V0	AGECAT	TABAC	CMV
+5	2	Women	22.33	[20,30)	Non Smoker	N
+12	3	Women	28.83	[20,30)	Smoker	P
+19	4	Women	23.67	[20,30)	Smoker	N
+26	5	Women	21.17	[20,30)	Non Smoker	N
+33	8	Women	26.17	[20,30)	Non Smoker	N
+40	9	Women	23.83	[20,30)	Non Smoker	N
+47	11	Women	26.42	[20,30)	Smoker	N
+54	13	Women	21.67	[20,30)	Smoker	P
+61	16	Women	26.5	[20,30)	Non Smoker	N
+68	19	Women	23.25	[20,30)	Non Smoker	N
+75	20	Women	21.83	[20,30)	Smoker	N
+82	21	Women	24.25	[20,30)	Smoker	P
+89	22	Women	25.83	[20,30)	Ex Smoker	N
+96	23	Women	22.75	[20,30)	Non Smoker	N
+103	24	Women	25.75	[20,30)	Smoker	N
+110	25	Women	22	[20,30)	Non Smoker	N
+117	26	Women	25.33	[20,30)	Non Smoker	N
+124	27	Women	20.5	[20,30)	Non Smoker	N
+131	28	Women	24.25	[20,30)	Smoker	P
+138	29	Women	29.83	[20,30)	Smoker	N
+145	30	Women	20.17	[20,30)	Smoker	N
+152	31	Women	22.58	[20,30)	Smoker	N
+159	32	Women	24.67	[20,30)	Non Smoker	N
+166	33	Women	21.17	[20,30)	Non Smoker	N
+173	34	Women	24.33	[20,30)	Non Smoker	N
+180	37	Women	24	[20,30)	Non Smoker	N
+187	38	Women	22.58	[20,30)	Non Smoker	P
+194	39	Women	25.17	[20,30)	Non Smoker	N
+201	41	Women	20.75	[20,30)	Non Smoker	N
+208	42	Women	21.42	[20,30)	Non Smoker	N
+215	43	Women	23.42	[20,30)	Non Smoker	N
+222	46	Women	25.67	[20,30)	Non Smoker	N
+229	47	Women	27.83	[20,30)	Non Smoker	N
+236	49	Women	24.92	[20,30)	Smoker	N
+243	50	Women	27.83	[20,30)	Non Smoker	P
+250	55	Women	22.17	[20,30)	Smoker	N
+257	56	Women	28.67	[20,30)	Non Smoker	N
+264	57	Women	26.75	[20,30)	Smoker	N
+271	60	Women	20.25	[20,30)	Non Smoker	N
+278	63	Women	20.92	[20,30)	Smoker	P
+285	64	Women	20.75	[20,30)	Non Smoker	N
+292	66	Women	21.75	[20,30)	Non Smoker	N
+299	67	Women	20.58	[20,30)	Smoker	P
+306	68	Women	23.17	[20,30)	Non Smoker	N
+313	72	Women	22.25	[20,30)	Smoker	P
+320	74	Women	24.25	[20,30)	Non Smoker	N
+327	75	Women	25.83	[20,30)	Smoker	N
+334	77	Women	23.75	[20,30)	Non Smoker	P
+341	78	Women	28.92	[20,30)	Non Smoker	N
+348	79	Women	27.17	[20,30)	Non Smoker	N
+355	80	Women	24	[20,30)	Smoker	N
+362	81	Women	25.92	[20,30)	Non Smoker	N
+369	82	Women	29.5	[20,30)	Non Smoker	P
+376	84	Women	28.5	[20,30)	Ex Smoker	P
+383	85	Women	23.83	[20,30)	Non Smoker	N
+390	87	Women	22.75	[20,30)	Non Smoker	N
+397	90	Women	24.83	[20,30)	Non Smoker	P
+404	92	Women	23.33	[20,30)	Non Smoker	P
+411	93	Women	21	[20,30)	Smoker	N
+418	95	Women	20.67	[20,30)	Smoker	P
+425	97	Women	23.25	[20,30)	Ex Smoker	N
+432	98	Women	22	[20,30)	Non Smoker	N
+439	99	Women	26	[20,30)	Non Smoker	N
+446	100	Women	23.25	[20,30)	Smoker	P
+453	101	Men	24	[20,30)	Smoker	N
+460	102	Men	24.17	[20,30)	Smoker	P
+467	107	Men	23	[20,30)	Ex Smoker	N
+474	109	Men	23.33	[20,30)	Smoker	N
+481	111	Men	26.83	[20,30)	Non Smoker	N
+488	116	Men	28.75	[20,30)	Smoker	P
+495	117	Men	24.83	[20,30)	Non Smoker	P
+502	123	Men	21.5	[20,30)	Non Smoker	N
+509	124	Men	25.08	[20,30)	Smoker	N
+516	125	Men	21.83	[20,30)	Smoker	N
+523	128	Men	23.58	[20,30)	Non Smoker	N
+530	130	Men	22.92	[20,30)	Smoker	P
+537	135	Men	22.75	[20,30)	Non Smoker	N
+544	137	Men	29.5	[20,30)	Smoker	N
+551	139	Men	24.17	[20,30)	Non Smoker	N
+558	140	Men	26.58	[20,30)	Non Smoker	N
+565	141	Men	24.33	[20,30)	Non Smoker	N
+572	142	Men	20.92	[20,30)	Non Smoker	N
+579	143	Men	20.58	[20,30)	Smoker	P
+586	144	Men	26.83	[20,30)	Non Smoker	P
+593	145	Men	26.75	[20,30)	Non Smoker	N
+600	146	Men	25.5	[20,30)	Non Smoker	N
+607	151	Men	23.92	[20,30)	Ex Smoker	N
+614	152	Men	29.25	[20,30)	Non Smoker	N
+621	153	Men	24	[20,30)	Non Smoker	P
+628	154	Men	27.58	[20,30)	Smoker	N
+635	156	Men	23.17	[20,30)	Smoker	N
+642	161	Men	27.5	[20,30)	Smoker	N
+649	162	Men	28.67	[20,30)	Non Smoker	P
+656	164	Men	24.83	[20,30)	Non Smoker	N
+663	165	Men	28.42	[20,30)	Ex Smoker	N
+670	166	Men	23.58	[20,30)	Non Smoker	N
+677	169	Men	26.17	[20,30)	Non Smoker	N
+684	170	Men	20.42	[20,30)	Smoker	N
+691	171	Men	24.08	[20,30)	Non Smoker	N
+698	173	Men	21.25	[20,30)	Non Smoker	N
+705	175	Men	23.17	[20,30)	Ex Smoker	N
+712	176	Men	20.58	[20,30)	Smoker	N
+719	177	Men	25.92	[20,30)	Ex Smoker	N
+726	181	Men	28.67	[20,30)	Smoker	P
+733	183	Men	26.67	[20,30)	Non Smoker	P
+740	184	Men	29.75	[20,30)	Smoker	P
+747	187	Men	27.83	[20,30)	Non Smoker	N
+754	188	Men	26.33	[20,30)	Non Smoker	N
+761	189	Men	24.58	[20,30)	Non Smoker	N
+768	190	Men	20.92	[20,30)	Non Smoker	P
+775	193	Men	21.92	[20,30)	Non Smoker	N
+782	194	Men	21.67	[20,30)	Smoker	N
+789	195	Men	26.92	[20,30)	Smoker	N
+796	196	Men	20.33	[20,30)	Non Smoker	N
+803	197	Men	23.17	[20,30)	Smoker	N
+810	198	Men	28.67	[20,30)	Ex Smoker	P
+817	199	Men	22	[20,30)	Ex Smoker	N
+824	200	Men	20.25	[20,30)	Non Smoker	N
+831	201	Women	37.67	[30,40)	Non Smoker	N
+838	202	Women	35.75	[30,40)	Smoker	N
+845	203	Women	39.58	[30,40)	Smoker	N
+852	204	Women	37.58	[30,40)	Smoker	P
+859	205	Women	30.75	[30,40)	Smoker	P
+866	206	Women	39.42	[30,40)	Ex Smoker	N
+873	207	Women	30.25	[30,40)	Non Smoker	N
+880	208	Women	31.5	[30,40)	Smoker	N
+887	210	Women	38.58	[30,40)	Non Smoker	N
+894	211	Women	37.33	[30,40)	Non Smoker	N
+901	212	Women	30.25	[30,40)	Non Smoker	N
+908	213	Women	33.92	[30,40)	Non Smoker	P
+915	214	Women	37.92	[30,40)	Non Smoker	N
+922	215	Women	37.67	[30,40)	Ex Smoker	N
+929	216	Women	37.92	[30,40)	Non Smoker	P
+936	217	Women	38.25	[30,40)	Non Smoker	N
+943	220	Women	32.83	[30,40)	Smoker	N
+950	222	Women	33.58	[30,40)	Smoker	P
+957	223	Women	32.83	[30,40)	Non Smoker	N
+964	224	Women	32.75	[30,40)	Non Smoker	N
+971	225	Women	31.58	[30,40)	Ex Smoker	N
+978	226	Women	31.25	[30,40)	Non Smoker	N
+985	227	Women	37.08	[30,40)	Non Smoker	N
+992	229	Women	31.25	[30,40)	Ex Smoker	N
+999	230	Women	35.75	[30,40)	Non Smoker	N
+1006	231	Women	30.5	[30,40)	Non Smoker	N
+1013	232	Women	35.17	[30,40)	Smoker	N
+1020	233	Women	36.25	[30,40)	Non Smoker	N
+1027	234	Women	38.58	[30,40)	Non Smoker	P
+1034	235	Women	39.33	[30,40)	Non Smoker	P
+1041	236	Women	36.25	[30,40)	Non Smoker	P
+1048	237	Women	34.83	[30,40)	Non Smoker	P
+1055	238	Women	37.33	[30,40)	Ex Smoker	N
+1062	239	Women	33.67	[30,40)	Smoker	N
+1069	240	Women	32.33	[30,40)	Non Smoker	P
+1076	241	Women	31.58	[30,40)	Ex Smoker	N
+1083	242	Women	35.5	[30,40)	Non Smoker	P
+1090	243	Women	30.5	[30,40)	Non Smoker	N
+1097	244	Women	31.67	[30,40)	Smoker	N
+1104	245	Women	34.92	[30,40)	Smoker	P
+1111	246	Women	35.83	[30,40)	Non Smoker	P
+1118	249	Women	33.75	[30,40)	Non Smoker	N
+1125	250	Women	39.17	[30,40)	Non Smoker	N
+1132	251	Women	32	[30,40)	Smoker	N
+1139	252	Women	38.92	[30,40)	Smoker	N
+1146	253	Women	33.33	[30,40)	Smoker	N
+1153	254	Women	30	[30,40)	Non Smoker	P
+1160	255	Women	37.42	[30,40)	Non Smoker	N
+1167	258	Women	38.17	[30,40)	Non Smoker	P
+1174	259	Women	38.75	[30,40)	Non Smoker	P
+1181	260	Women	38.83	[30,40)	Ex Smoker	N
+1188	261	Women	33.75	[30,40)	Non Smoker	P
+1195	262	Women	30.42	[30,40)	Non Smoker	N
+1202	263	Women	34.5	[30,40)	Non Smoker	N
+1209	266	Women	35.5	[30,40)	Smoker	N
+1216	267	Women	38	[30,40)	Non Smoker	N
+1223	269	Women	30.67	[30,40)	Non Smoker	P
+1230	270	Women	36.75	[30,40)	Ex Smoker	N
+1237	271	Women	38.75	[30,40)	Non Smoker	P
+1244	272	Women	39.92	[30,40)	Smoker	N
+1251	273	Women	31.75	[30,40)	Non Smoker	N
+1258	274	Women	33.17	[30,40)	Ex Smoker	P
+1265	276	Women	31.25	[30,40)	Ex Smoker	N
+1272	277	Women	31.67	[30,40)	Non Smoker	N
+1279	278	Women	33	[30,40)	Smoker	N
+1286	280	Women	40	[40,50)	Non Smoker	P
+1293	281	Women	37.5	[30,40)	Smoker	P
+1300	282	Women	39.5	[30,40)	Smoker	P
+1307	283	Women	37.5	[30,40)	Non Smoker	P
+1314	284	Women	35.5	[30,40)	Ex Smoker	N
+1321	285	Women	30.42	[30,40)	Non Smoker	N
+1328	286	Women	30.67	[30,40)	Non Smoker	N
+1335	287	Women	32	[30,40)	Non Smoker	P
+1342	288	Women	36.25	[30,40)	Ex Smoker	N
+1349	289	Women	37.92	[30,40)	Smoker	N
+1356	290	Women	39.83	[30,40)	Non Smoker	N
+1363	291	Women	30.75	[30,40)	Non Smoker	N
+1370	292	Women	32.33	[30,40)	Smoker	N
+1377	293	Women	37.92	[30,40)	Ex Smoker	N
+1384	294	Women	30.08	[30,40)	Non Smoker	P
+1391	295	Women	39	[30,40)	Non Smoker	N
+1398	296	Women	31.17	[30,40)	Smoker	P
+1405	297	Women	37.42	[30,40)	Ex Smoker	N
+1412	298	Women	34.83	[30,40)	Smoker	N
+1419	299	Women	39.92	[30,40)	Non Smoker	N
+1426	300	Women	32.58	[30,40)	Ex Smoker	N
+1433	301	Men	36.58	[30,40)	Ex Smoker	N
+1440	304	Men	39.83	[30,40)	Non Smoker	N
+1447	305	Men	36.83	[30,40)	Smoker	N
+1454	307	Men	32.17	[30,40)	Non Smoker	N
+1461	309	Men	30.5	[30,40)	Smoker	P
+1468	311	Men	34.17	[30,40)	Non Smoker	N
+1475	313	Men	35	[30,40)	Smoker	P
+1482	315	Men	31.75	[30,40)	Smoker	N
+1489	316	Men	36.5	[30,40)	Ex Smoker	N
+1496	317	Men	35.67	[30,40)	Ex Smoker	N
+1503	318	Men	35.92	[30,40)	Non Smoker	N
+1510	319	Men	38.67	[30,40)	Non Smoker	N
+1517	320	Men	34.5	[30,40)	Non Smoker	N
+1524	321	Men	34	[30,40)	Ex Smoker	N
+1531	322	Men	37.83	[30,40)	Non Smoker	N
+1538	323	Men	37.17	[30,40)	Non Smoker	N
+1545	324	Men	35	[30,40)	Non Smoker	N
+1552	329	Men	38.83	[30,40)	Non Smoker	N
+1559	331	Men	31.33	[30,40)	Smoker	N
+1566	333	Men	39.58	[30,40)	Non Smoker	N
+1573	334	Men	31.17	[30,40)	Non Smoker	P
+1580	339	Men	38.08	[30,40)	Non Smoker	N
+1587	340	Men	35.83	[30,40)	Non Smoker	N
+1594	342	Men	33.33	[30,40)	Ex Smoker	N
+1601	343	Men	33.25	[30,40)	Smoker	N
+1608	344	Men	30.17	[30,40)	Ex Smoker	N
+1615	345	Men	36	[30,40)	Smoker	N
+1622	346	Men	37.08	[30,40)	Ex Smoker	N
+1629	347	Men	38.92	[30,40)	Non Smoker	N
+1636	348	Men	38.92	[30,40)	Ex Smoker	N
+1643	349	Men	36.92	[30,40)	Ex Smoker	N
+1650	352	Men	38.08	[30,40)	Ex Smoker	N
+1657	353	Men	39	[30,40)	Non Smoker	N
+1664	354	Men	38.75	[30,40)	Ex Smoker	P
+1671	355	Men	37.92	[30,40)	Ex Smoker	N
+1678	356	Men	31.58	[30,40)	Smoker	P
+1685	357	Men	38	[30,40)	Non Smoker	N
+1692	359	Men	39.42	[30,40)	Non Smoker	N
+1699	361	Men	38.83	[30,40)	Smoker	N
+1706	362	Men	35.92	[30,40)	Smoker	N
+1713	363	Men	30.25	[30,40)	Non Smoker	N
+1720	364	Men	37.33	[30,40)	Smoker	P
+1727	367	Men	35.75	[30,40)	Smoker	P
+1734	368	Men	32.83	[30,40)	Non Smoker	N
+1741	369	Men	36	[30,40)	Non Smoker	P
+1748	370	Men	39	[30,40)	Ex Smoker	N
+1755	371	Men	35.5	[30,40)	Non Smoker	P
+1762	372	Men	33.33	[30,40)	Non Smoker	N
+1769	373	Men	34.08	[30,40)	Smoker	N
+1776	374	Men	35.83	[30,40)	Non Smoker	N
+1783	375	Men	35.67	[30,40)	Ex Smoker	N
+1790	376	Men	36.75	[30,40)	Ex Smoker	N
+1797	377	Men	37.75	[30,40)	Non Smoker	P
+1804	379	Men	30.58	[30,40)	Smoker	N
+1811	380	Men	30.58	[30,40)	Non Smoker	P
+1818	381	Men	36.83	[30,40)	Ex Smoker	P
+1825	382	Men	38.17	[30,40)	Ex Smoker	N
+1832	384	Men	36.25	[30,40)	Non Smoker	N
+1839	385	Men	39.25	[30,40)	Smoker	P
+1846	387	Men	33.67	[30,40)	Ex Smoker	P
+1853	388	Men	32	[30,40)	Non Smoker	N
+1860	389	Men	33.33	[30,40)	Smoker	N
+1867	390	Men	30.67	[30,40)	Smoker	N
+1874	391	Men	38.33	[30,40)	Smoker	N
+1881	392	Men	33.83	[30,40)	Smoker	N
+1888	393	Men	36.92	[30,40)	Non Smoker	N
+1895	394	Men	38.67	[30,40)	Ex Smoker	P
+1902	395	Men	30.75	[30,40)	Smoker	N
+1909	397	Men	37.5	[30,40)	Ex Smoker	P
+1916	398	Men	33	[30,40)	Ex Smoker	N
+1923	401	Women	44.42	[40,50)	Ex Smoker	P
+1930	402	Women	42.42	[40,50)	Non Smoker	P
+1937	403	Women	49.08	[40,50)	Ex Smoker	N
+1944	405	Women	43.42	[40,50)	Non Smoker	P
+1951	406	Women	48.5	[40,50)	Smoker	N
+1958	407	Women	40.25	[40,50)	Ex Smoker	N
+1965	408	Women	48.08	[40,50)	Non Smoker	N
+1972	409	Women	42.92	[40,50)	Smoker	N
+1979	410	Women	48.5	[40,50)	Ex Smoker	P
+1986	411	Women	49.17	[40,50)	Non Smoker	P
+1993	412	Women	44.25	[40,50)	Ex Smoker	P
+2000	413	Women	47.58	[40,50)	Non Smoker	N
+2007	414	Women	45.5	[40,50)	Non Smoker	N
+2014	416	Women	48.42	[40,50)	Non Smoker	N
+2021	417	Women	43.92	[40,50)	Non Smoker	N
+2028	418	Women	44.83	[40,50)	Ex Smoker	P
+2035	419	Women	42.5	[40,50)	Non Smoker	P
+2042	421	Women	47.33	[40,50)	Non Smoker	N
+2049	422	Women	46.17	[40,50)	Ex Smoker	N
+2056	423	Women	42.5	[40,50)	Smoker	P
+2063	424	Women	48.08	[40,50)	Ex Smoker	N
+2070	425	Women	44.25	[40,50)	Non Smoker	P
+2077	426	Women	41.42	[40,50)	Non Smoker	N
+2084	427	Women	46.08	[40,50)	Ex Smoker	N
+2091	428	Women	45.33	[40,50)	Ex Smoker	N
+2098	430	Women	44.83	[40,50)	Non Smoker	N
+2105	431	Women	47.83	[40,50)	Ex Smoker	N
+2112	432	Women	46.42	[40,50)	Non Smoker	N
+2119	433	Women	48.08	[40,50)	Non Smoker	N
+2126	434	Women	44.42	[40,50)	Smoker	P
+2133	435	Women	40.67	[40,50)	Non Smoker	N
+2140	436	Women	48.5	[40,50)	Non Smoker	P
+2147	437	Women	41.67	[40,50)	Non Smoker	P
+2154	438	Women	42.08	[40,50)	Non Smoker	N
+2161	439	Women	43	[40,50)	Non Smoker	P
+2168	440	Women	46.17	[40,50)	Smoker	P
+2175	441	Women	48	[40,50)	Non Smoker	N
+2182	443	Women	47.33	[40,50)	Non Smoker	P
+2189	444	Women	42.5	[40,50)	Smoker	P
+2196	445	Women	45.58	[40,50)	Non Smoker	N
+2203	446	Women	44.5	[40,50)	Non Smoker	N
+2210	447	Women	43.75	[40,50)	Smoker	N
+2217	448	Women	44.42	[40,50)	Non Smoker	N
+2224	449	Women	45.08	[40,50)	Non Smoker	N
+2231	450	Women	46.33	[40,50)	Ex Smoker	N
+2238	451	Women	49.5	[40,50)	Ex Smoker	P
+2245	452	Women	42.08	[40,50)	Non Smoker	N
+2252	453	Women	49.92	[40,50)	Ex Smoker	N
+2259	454	Women	41.58	[40,50)	Smoker	N
+2266	455	Women	46.08	[40,50)	Smoker	N
+2273	456	Women	40.5	[40,50)	Ex Smoker	N
+2280	457	Women	47.08	[40,50)	Non Smoker	N
+2287	459	Women	43.25	[40,50)	Non Smoker	P
+2294	460	Women	49.83	[40,50)	Ex Smoker	P
+2301	462	Women	48.67	[40,50)	Non Smoker	N
+2308	463	Women	40.25	[40,50)	Ex Smoker	P
+2315	464	Women	47.67	[40,50)	Ex Smoker	P
+2322	465	Women	48.25	[40,50)	Smoker	N
+2329	466	Women	40.08	[40,50)	Ex Smoker	N
+2336	467	Women	47.75	[40,50)	Smoker	P
+2343	468	Women	47.33	[40,50)	Smoker	P
+2350	469	Women	44.33	[40,50)	Smoker	N
+2357	470	Women	46.67	[40,50)	Ex Smoker	N
+2364	471	Women	45.92	[40,50)	Non Smoker	N
+2371	472	Women	41.42	[40,50)	Non Smoker	P
+2378	473	Women	48	[40,50)	Non Smoker	P
+2385	474	Women	40.83	[40,50)	Smoker	N
+2392	475	Women	40.58	[40,50)	Non Smoker	P
+2399	476	Women	47	[40,50)	Ex Smoker	N
+2406	477	Women	43.17	[40,50)	Non Smoker	P
+2413	478	Women	47.67	[40,50)	Smoker	N
+2420	479	Women	42.5	[40,50)	Non Smoker	N
+2427	480	Women	41.5	[40,50)	Non Smoker	N
+2434	481	Women	47.67	[40,50)	Non Smoker	N
+2441	482	Women	47.58	[40,50)	Non Smoker	P
+2448	484	Women	41.67	[40,50)	Non Smoker	N
+2455	485	Women	48.67	[40,50)	Ex Smoker	N
+2462	486	Women	47.83	[40,50)	Ex Smoker	N
+2469	488	Women	42.42	[40,50)	Ex Smoker	N
+2476	489	Women	40.5	[40,50)	Non Smoker	N
+2483	490	Women	42.83	[40,50)	Non Smoker	N
+2490	492	Women	43.08	[40,50)	Non Smoker	N
+2497	495	Women	43.42	[40,50)	Smoker	P
+2504	496	Women	44.83	[40,50)	Non Smoker	N
+2511	497	Women	47.75	[40,50)	Ex Smoker	N
+2518	498	Women	43.83	[40,50)	Non Smoker	N
+2525	499	Women	45.75	[40,50)	Ex Smoker	N
+2532	500	Women	48.83	[40,50)	Ex Smoker	P
+2539	501	Men	46.75	[40,50)	Non Smoker	N
+2546	502	Men	48.42	[40,50)	Non Smoker	N
+2553	505	Men	44.17	[40,50)	Non Smoker	N
+2560	506	Men	43.33	[40,50)	Ex Smoker	N
+2567	507	Men	44.83	[40,50)	Ex Smoker	P
+2574	508	Men	45.33	[40,50)	Ex Smoker	N
+2581	509	Men	46.17	[40,50)	Smoker	N
+2588	510	Men	44	[40,50)	Non Smoker	N
+2595	513	Men	45.42	[40,50)	Non Smoker	P
+2602	514	Men	48.58	[40,50)	Smoker	N
+2609	515	Men	48.08	[40,50)	Non Smoker	N
+2616	516	Men	41.92	[40,50)	Ex Smoker	P
+2623	517	Men	43.92	[40,50)	Non Smoker	P
+2630	518	Men	45.5	[40,50)	Non Smoker	N
+2637	520	Men	45.58	[40,50)	Smoker	P
+2644	522	Men	46.5	[40,50)	Smoker	N
+2651	524	Men	45.58	[40,50)	Smoker	N
+2658	526	Men	40.5	[40,50)	Ex Smoker	P
+2665	528	Men	44.25	[40,50)	Non Smoker	N
+2672	529	Men	40.17	[40,50)	Non Smoker	N
+2679	531	Men	45.25	[40,50)	Ex Smoker	P
+2686	532	Men	44.92	[40,50)	Smoker	N
+2693	533	Men	48.17	[40,50)	Non Smoker	N
+2700	535	Men	40.67	[40,50)	Non Smoker	N
+2707	536	Men	41.58	[40,50)	Smoker	N
+2714	537	Men	41.33	[40,50)	Ex Smoker	N
+2721	538	Men	47.33	[40,50)	Ex Smoker	N
+2728	539	Men	49.92	[40,50)	Non Smoker	N
+2735	540	Men	47.42	[40,50)	Ex Smoker	N
+2742	541	Men	44.92	[40,50)	Smoker	P
+2749	542	Men	44.33	[40,50)	Non Smoker	N
+2756	543	Men	43.08	[40,50)	Smoker	N
+2763	544	Men	48.75	[40,50)	Non Smoker	P
+2770	545	Men	42.83	[40,50)	Ex Smoker	N
+2777	547	Men	48.42	[40,50)	Smoker	N
+2784	548	Men	43.5	[40,50)	Smoker	N
+2791	549	Men	42	[40,50)	Non Smoker	N
+2798	550	Men	49.83	[40,50)	Ex Smoker	N
+2805	551	Men	44.42	[40,50)	Ex Smoker	N
+2812	552	Men	43.08	[40,50)	Non Smoker	P
+2819	553	Men	47.92	[40,50)	Non Smoker	P
+2826	554	Men	48.58	[40,50)	Smoker	N
+2833	555	Men	42.92	[40,50)	Non Smoker	N
+2840	556	Men	48.5	[40,50)	Non Smoker	P
+2847	557	Men	41.75	[40,50)	Non Smoker	N
+2854	558	Men	48.5	[40,50)	Non Smoker	N
+2861	559	Men	49	[40,50)	Non Smoker	N
+2868	560	Men	43.08	[40,50)	Non Smoker	N
+2875	563	Men	41.25	[40,50)	Ex Smoker	N
+2882	564	Men	47	[40,50)	Non Smoker	N
+2889	565	Men	40.67	[40,50)	Non Smoker	N
+2896	566	Men	41.5	[40,50)	Smoker	N
+2903	567	Men	49.58	[40,50)	Smoker	N
+2910	568	Men	43.92	[40,50)	Ex Smoker	N
+2917	570	Men	43.42	[40,50)	Non Smoker	N
+2924	571	Men	48.92	[40,50)	Ex Smoker	N
+2931	572	Men	49.58	[40,50)	Ex Smoker	N
+2938	573	Men	42.92	[40,50)	Non Smoker	N
+2945	576	Men	41.5	[40,50)	Ex Smoker	P
+2952	577	Men	41.92	[40,50)	Ex Smoker	N
+2959	578	Men	44.17	[40,50)	Smoker	N
+2966	579	Men	40.58	[40,50)	Non Smoker	N
+2973	581	Men	42.75	[40,50)	Ex Smoker	P
+2980	582	Men	49.08	[40,50)	Ex Smoker	P
+2987	583	Men	45.5	[40,50)	Non Smoker	P
+2994	586	Men	40.33	[40,50)	Smoker	P
+3001	587	Men	44.67	[40,50)	Smoker	P
+3008	588	Men	49.92	[40,50)	Ex Smoker	N
+3015	589	Men	42.25	[40,50)	Non Smoker	P
+3022	590	Men	46.83	[40,50)	Ex Smoker	N
+3029	592	Men	41.83	[40,50)	Ex Smoker	N
+3036	593	Men	46.75	[40,50)	Non Smoker	N
+3043	594	Men	40.33	[40,50)	Ex Smoker	N
+3050	595	Men	41.58	[40,50)	Non Smoker	P
+3057	597	Men	47.08	[40,50)	Smoker	N
+3064	598	Men	48.33	[40,50)	Ex Smoker	N
+3071	599	Men	40.25	[40,50)	Ex Smoker	N
+3078	600	Men	48.17	[40,50)	Non Smoker	P
+3085	601	Women	57.83	[50,60)	Smoker	P
+3092	602	Women	56.5	[50,60)	Ex Smoker	N
+3099	604	Women	58.25	[50,60)	Non Smoker	N
+3106	605	Women	57.33	[50,60)	Non Smoker	P
+3113	606	Women	58.25	[50,60)	Non Smoker	N
+3120	607	Women	51.17	[50,60)	Non Smoker	N
+3127	609	Women	56.83	[50,60)	Non Smoker	P
+3134	610	Women	50.58	[50,60)	Ex Smoker	P
+3141	611	Women	56.25	[50,60)	Non Smoker	N
+3148	612	Women	55.67	[50,60)	Smoker	N
+3155	613	Women	53.17	[50,60)	Ex Smoker	N
+3162	614	Women	54.25	[50,60)	Ex Smoker	N
+3169	615	Women	52.92	[50,60)	Smoker	P
+3176	616	Women	58.25	[50,60)	Non Smoker	N
+3183	617	Women	53.83	[50,60)	Smoker	P
+3190	618	Women	51.17	[50,60)	Ex Smoker	N
+3197	619	Women	54.25	[50,60)	Non Smoker	P
+3204	620	Women	51.58	[50,60)	Ex Smoker	N
+3211	621	Women	53.08	[50,60)	Non Smoker	N
+3218	622	Women	58.67	[50,60)	Ex Smoker	N
+3225	623	Women	57.92	[50,60)	Non Smoker	N
+3232	624	Women	52.33	[50,60)	Ex Smoker	N
+3239	625	Women	57.75	[50,60)	Non Smoker	N
+3246	626	Women	59	[50,60)	Ex Smoker	P
+3253	627	Women	55.25	[50,60)	Non Smoker	N
+3260	629	Women	59.17	[50,60)	Non Smoker	P
+3267	630	Women	54.92	[50,60)	Ex Smoker	P
+3274	631	Women	53.33	[50,60)	Non Smoker	N
+3281	632	Women	50.92	[50,60)	Non Smoker	P
+3288	634	Women	52.33	[50,60)	Non Smoker	N
+3295	635	Women	53	[50,60)	Non Smoker	N
+3302	636	Women	51	[50,60)	Non Smoker	P
+3309	637	Women	55.75	[50,60)	Non Smoker	P
+3316	638	Women	52.67	[50,60)	Ex Smoker	P
+3323	639	Women	52.08	[50,60)	Ex Smoker	N
+3330	640	Women	56	[50,60)	Non Smoker	P
+3337	642	Women	59.92	[50,60)	Non Smoker	P
+3344	643	Women	59.42	[50,60)	Non Smoker	N
+3351	644	Women	57	[50,60)	Non Smoker	P
+3358	645	Women	56.08	[50,60)	Non Smoker	N
+3365	646	Women	55.83	[50,60)	Non Smoker	P
+3372	647	Women	54.42	[50,60)	Non Smoker	P
+3379	648	Women	58.75	[50,60)	Non Smoker	N
+3386	650	Women	55	[50,60)	Non Smoker	P
+3393	651	Women	53.17	[50,60)	Non Smoker	N
+3400	652	Women	56.83	[50,60)	Non Smoker	N
+3407	653	Women	55.17	[50,60)	Ex Smoker	N
+3414	654	Women	53	[50,60)	Non Smoker	P
+3421	655	Women	53	[50,60)	Non Smoker	N
+3428	656	Women	52.83	[50,60)	Non Smoker	P
+3435	657	Women	57.58	[50,60)	Non Smoker	N
+3442	658	Women	52.42	[50,60)	Non Smoker	N
+3449	659	Women	59.17	[50,60)	Non Smoker	P
+3456	660	Women	56.17	[50,60)	Smoker	P
+3463	662	Women	50.83	[50,60)	Ex Smoker	P
+3470	663	Women	52.17	[50,60)	Ex Smoker	P
+3477	664	Women	55.83	[50,60)	Ex Smoker	P
+3484	665	Women	51.08	[50,60)	Smoker	P
+3491	666	Women	58.75	[50,60)	Non Smoker	P
+3498	667	Women	51.67	[50,60)	Non Smoker	P
+3505	668	Women	57.17	[50,60)	Non Smoker	N
+3512	669	Women	59.5	[50,60)	Non Smoker	N
+3519	670	Women	53	[50,60)	Non Smoker	N
+3526	672	Women	51.92	[50,60)	Non Smoker	P
+3533	673	Women	51.17	[50,60)	Non Smoker	N
+3540	674	Women	54.42	[50,60)	Non Smoker	P
+3547	675	Women	57.67	[50,60)	Ex Smoker	N
+3554	677	Women	57.75	[50,60)	Ex Smoker	N
+3561	678	Women	57.92	[50,60)	Ex Smoker	N
+3568	679	Women	51.75	[50,60)	Smoker	P
+3575	680	Women	52	[50,60)	Ex Smoker	N
+3582	681	Women	56.67	[50,60)	Ex Smoker	N
+3589	683	Women	55.42	[50,60)	Non Smoker	P
+3596	684	Women	56.42	[50,60)	Ex Smoker	N
+3603	685	Women	54.58	[50,60)	Non Smoker	P
+3610	686	Women	55.17	[50,60)	Ex Smoker	N
+3617	687	Women	58.58	[50,60)	Non Smoker	P
+3624	688	Women	52.17	[50,60)	Ex Smoker	P
+3631	689	Women	57.58	[50,60)	Ex Smoker	P
+3638	690	Women	58.17	[50,60)	Non Smoker	N
+3645	691	Women	58.17	[50,60)	Non Smoker	N
+3652	692	Women	53.92	[50,60)	Non Smoker	N
+3659	693	Women	55.92	[50,60)	Smoker	P
+3666	694	Women	56.92	[50,60)	Ex Smoker	N
+3673	695	Women	54.17	[50,60)	Smoker	N
+3680	696	Women	55.83	[50,60)	Non Smoker	P
+3687	697	Women	52.67	[50,60)	Non Smoker	P
+3694	698	Women	50.75	[50,60)	Ex Smoker	P
+3701	699	Women	54.92	[50,60)	Non Smoker	N
+3708	700	Women	55.83	[50,60)	Smoker	P
+3715	702	Men	52.08	[50,60)	Non Smoker	N
+3722	703	Men	58.08	[50,60)	Smoker	N
+3729	704	Men	57.08	[50,60)	Non Smoker	N
+3736	705	Men	52.5	[50,60)	Non Smoker	P
+3743	706	Men	50.67	[50,60)	Non Smoker	P
+3750	707	Men	51.33	[50,60)	Ex Smoker	N
+3757	708	Men	53.42	[50,60)	Smoker	N
+3764	709	Men	55.58	[50,60)	Ex Smoker	P
+3771	710	Men	54.67	[50,60)	Non Smoker	N
+3778	711	Men	53.83	[50,60)	Ex Smoker	P
+3785	712	Men	54.08	[50,60)	Smoker	P
+3792	713	Men	58.67	[50,60)	Non Smoker	N
+3799	714	Men	53	[50,60)	Non Smoker	N
+3806	715	Men	53.17	[50,60)	Non Smoker	N
+3813	717	Men	51.25	[50,60)	Non Smoker	N
+3820	718	Men	56.67	[50,60)	Non Smoker	N
+3827	719	Men	50.25	[50,60)	Ex Smoker	N
+3834	720	Men	59.25	[50,60)	Non Smoker	N
+3841	721	Men	60	[60,70]	Non Smoker	P
+3848	722	Men	57.83	[50,60)	Non Smoker	N
+3855	723	Men	57.83	[50,60)	Non Smoker	P
+3862	724	Men	58	[50,60)	Smoker	P
+3869	725	Men	59.67	[50,60)	Non Smoker	N
+3876	726	Men	51.42	[50,60)	Ex Smoker	N
+3883	727	Men	52.33	[50,60)	Non Smoker	N
+3890	728	Men	55.67	[50,60)	Non Smoker	N
+3897	729	Men	60	[60,70]	Non Smoker	N
+3904	730	Men	56.33	[50,60)	Non Smoker	N
+3911	731	Men	50.17	[50,60)	Ex Smoker	N
+3918	732	Men	59.75	[50,60)	Non Smoker	N
+3925	733	Men	58.08	[50,60)	Non Smoker	N
+3932	734	Men	50.08	[50,60)	Smoker	P
+3939	735	Men	54.83	[50,60)	Ex Smoker	P
+3946	736	Men	59.58	[50,60)	Ex Smoker	P
+3953	737	Men	53.25	[50,60)	Non Smoker	P
+3960	738	Men	52.67	[50,60)	Non Smoker	N
+3967	739	Men	56.42	[50,60)	Non Smoker	N
+3974	740	Men	57.17	[50,60)	Non Smoker	N
+3981	741	Men	51.08	[50,60)	Ex Smoker	N
+3988	742	Men	54.42	[50,60)	Non Smoker	P
+3995	743	Men	56.5	[50,60)	Non Smoker	N
+4002	744	Men	59.92	[50,60)	Non Smoker	P
+4009	745	Men	57.92	[50,60)	Non Smoker	N
+4016	746	Men	54.83	[50,60)	Smoker	N
+4023	747	Men	51.5	[50,60)	Non Smoker	N
+4030	748	Men	55.17	[50,60)	Non Smoker	N
+4037	749	Men	59.08	[50,60)	Ex Smoker	P
+4044	750	Men	53.83	[50,60)	Ex Smoker	N
+4051	751	Men	50.5	[50,60)	Non Smoker	P
+4058	752	Men	53.33	[50,60)	Non Smoker	P
+4065	753	Men	59.08	[50,60)	Smoker	P
+4072	754	Men	51.17	[50,60)	Ex Smoker	P
+4079	755	Men	50.33	[50,60)	Non Smoker	P
+4086	756	Men	52.83	[50,60)	Smoker	N
+4093	757	Men	57.67	[50,60)	Ex Smoker	P
+4100	758	Men	55	[50,60)	Non Smoker	P
+4107	759	Men	59.92	[50,60)	Ex Smoker	P
+4114	760	Men	52	[50,60)	Non Smoker	P
+4121	761	Men	59.92	[50,60)	Ex Smoker	N
+4128	762	Men	53	[50,60)	Ex Smoker	P
+4135	763	Men	50	[50,60)	Smoker	P
+4142	764	Men	51	[50,60)	Ex Smoker	N
+4149	765	Men	54.92	[50,60)	Non Smoker	P
+4156	766	Men	54.67	[50,60)	Non Smoker	N
+4163	767	Men	52.67	[50,60)	Ex Smoker	P
+4170	768	Men	53.67	[50,60)	Smoker	N
+4177	769	Men	50.17	[50,60)	Non Smoker	P
+4184	770	Men	55.83	[50,60)	Non Smoker	N
+4191	771	Men	50.83	[50,60)	Ex Smoker	N
+4198	773	Men	59.25	[50,60)	Ex Smoker	N
+4205	774	Men	51.42	[50,60)	Ex Smoker	P
+4212	775	Men	52.67	[50,60)	Smoker	P
+4219	777	Men	52.33	[50,60)	Smoker	N
+4226	778	Men	53.5	[50,60)	Ex Smoker	P
+4233	779	Men	55.42	[50,60)	Ex Smoker	N
+4240	780	Men	59.58	[50,60)	Non Smoker	N
+4247	781	Men	54.33	[50,60)	Non Smoker	P
+4254	782	Men	55.17	[50,60)	Smoker	P
+4261	783	Men	57.5	[50,60)	Ex Smoker	N
+4268	784	Men	51.08	[50,60)	Non Smoker	N
+4275	785	Men	56.75	[50,60)	Smoker	P
+4282	786	Men	56.75	[50,60)	Ex Smoker	N
+4289	787	Men	54.75	[50,60)	Non Smoker	P
+4296	788	Men	58.42	[50,60)	Ex Smoker	N
+4303	791	Men	55.42	[50,60)	Smoker	N
+4310	792	Men	53.83	[50,60)	Smoker	N
+4317	794	Men	52.92	[50,60)	Non Smoker	P
+4324	795	Men	59.75	[50,60)	Smoker	N
+4331	796	Men	51.67	[50,60)	Smoker	N
+4338	797	Men	57.67	[50,60)	Non Smoker	N
+4345	798	Men	52.25	[50,60)	Ex Smoker	P
+4352	799	Men	50.42	[50,60)	Non Smoker	N
+4359	800	Men	50.58	[50,60)	Smoker	P
+4366	801	Women	66.67	[60,70]	Non Smoker	N
+4373	802	Women	66.83	[60,70]	Non Smoker	P
+4380	804	Women	68.08	[60,70]	Non Smoker	P
+4387	805	Women	66.67	[60,70]	Non Smoker	N
+4394	806	Women	67.58	[60,70]	Non Smoker	P
+4401	808	Women	65.5	[60,70]	Non Smoker	P
+4408	809	Women	67.17	[60,70]	Non Smoker	P
+4415	810	Women	60.17	[60,70]	Non Smoker	N
+4422	811	Women	63.25	[60,70]	Non Smoker	P
+4429	812	Women	68.08	[60,70]	Non Smoker	P
+4436	813	Women	66.75	[60,70]	Non Smoker	N
+4443	814	Women	65.25	[60,70]	Non Smoker	N
+4450	815	Women	67.17	[60,70]	Non Smoker	N
+4457	816	Women	66.42	[60,70]	Non Smoker	P
+4464	817	Women	66.42	[60,70]	Smoker	P
+4471	818	Women	69.5	[60,70]	Non Smoker	P
+4478	819	Women	64	[60,70]	Non Smoker	N
+4485	820	Women	65.67	[60,70]	Ex Smoker	N
+4492	821	Women	60.67	[60,70]	Non Smoker	N
+4499	822	Women	61	[60,70]	Non Smoker	N
+4506	823	Women	63.83	[60,70]	Non Smoker	P
+4513	824	Women	64.67	[60,70]	Ex Smoker	N
+4520	825	Women	62.17	[60,70]	Non Smoker	N
+4527	826	Women	64.5	[60,70]	Non Smoker	P
+4534	827	Women	61.83	[60,70]	Non Smoker	P
+4541	828	Women	60.5	[60,70]	Ex Smoker	P
+4548	829	Women	66.17	[60,70]	Non Smoker	N
+4555	830	Women	61.17	[60,70]	Non Smoker	P
+4562	831	Women	62.25	[60,70]	Non Smoker	N
+4569	832	Women	61.92	[60,70]	Non Smoker	N
+4576	833	Women	62.75	[60,70]	Non Smoker	P
+4583	834	Women	64.17	[60,70]	Non Smoker	P
+4590	835	Women	64.42	[60,70]	Ex Smoker	P
+4597	836	Women	62.83	[60,70]	Non Smoker	P
+4604	837	Women	67.5	[60,70]	Non Smoker	N
+4611	838	Women	66.33	[60,70]	Non Smoker	P
+4618	839	Women	63.25	[60,70]	Non Smoker	P
+4625	840	Women	68.08	[60,70]	Non Smoker	P
+4632	842	Women	64.17	[60,70]	Ex Smoker	N
+4639	843	Women	63.17	[60,70]	Ex Smoker	N
+4646	844	Women	63.17	[60,70]	Non Smoker	N
+4653	845	Women	65.67	[60,70]	Non Smoker	N
+4660	846	Women	63.08	[60,70]	Non Smoker	P
+4667	847	Women	62.92	[60,70]	Non Smoker	P
+4674	848	Women	68.92	[60,70]	Ex Smoker	P
+4681	849	Women	63.5	[60,70]	Ex Smoker	P
+4688	850	Women	63.83	[60,70]	Non Smoker	P
+4695	852	Women	63.58	[60,70]	Ex Smoker	P
+4702	853	Women	69.25	[60,70]	Non Smoker	N
+4709	855	Women	61.58	[60,70]	Non Smoker	N
+4716	856	Women	62.08	[60,70]	Non Smoker	P
+4723	860	Women	66.17	[60,70]	Non Smoker	N
+4730	861	Women	60.5	[60,70]	Non Smoker	N
+4737	862	Women	62.17	[60,70]	Non Smoker	N
+4744	864	Women	61.33	[60,70]	Non Smoker	P
+4751	865	Women	69.75	[60,70]	Non Smoker	P
+4758	867	Women	68.75	[60,70]	Smoker	N
+4765	868	Women	65.25	[60,70]	Non Smoker	P
+4772	870	Women	63.67	[60,70]	Ex Smoker	P
+4779	871	Women	62.92	[60,70]	Non Smoker	N
+4786	873	Women	62	[60,70]	Ex Smoker	P
+4793	874	Women	64.67	[60,70]	Non Smoker	N
+4800	875	Women	66.17	[60,70]	Ex Smoker	P
+4807	876	Women	60	[60,70]	Non Smoker	N
+4814	877	Women	61.08	[60,70]	Ex Smoker	P
+4821	878	Women	61.75	[60,70]	Non Smoker	N
+4828	879	Women	64.5	[60,70]	Ex Smoker	P
+4835	880	Women	69.5	[60,70]	Non Smoker	N
+4842	881	Women	64.25	[60,70]	Ex Smoker	P
+4849	882	Women	61.42	[60,70]	Non Smoker	P
+4856	884	Women	61	[60,70]	Non Smoker	N
+4863	885	Women	65.17	[60,70]	Smoker	P
+4870	887	Women	64.67	[60,70]	Ex Smoker	P
+4877	888	Women	61	[60,70]	Ex Smoker	P
+4884	889	Women	65.08	[60,70]	Ex Smoker	P
+4891	890	Women	60.58	[60,70]	Smoker	N
+4898	891	Women	68.75	[60,70]	Non Smoker	N
+4905	892	Women	66.5	[60,70]	Ex Smoker	P
+4912	893	Women	65.83	[60,70]	Non Smoker	P
+4919	894	Women	61.67	[60,70]	Non Smoker	N
+4926	895	Women	68.25	[60,70]	Ex Smoker	P
+4933	896	Women	66.58	[60,70]	Ex Smoker	P
+4940	898	Women	66.75	[60,70]	Smoker	P
+4947	899	Women	63.67	[60,70]	Non Smoker	N
+4954	900	Women	65.17	[60,70]	Non Smoker	N
+4961	901	Men	62.33	[60,70]	Ex Smoker	N
+4968	902	Men	68.17	[60,70]	Non Smoker	N
+4975	903	Men	66.83	[60,70]	Non Smoker	N
+4982	904	Men	63.5	[60,70]	Smoker	P
+4989	905	Men	66.92	[60,70]	Ex Smoker	N
+4996	906	Men	68.25	[60,70]	Non Smoker	N
+5003	907	Men	67.33	[60,70]	Non Smoker	N
+5010	908	Men	62.75	[60,70]	Non Smoker	N
+5017	909	Men	62.92	[60,70]	Smoker	P
+5024	910	Men	61.75	[60,70]	Smoker	P
+5031	912	Men	67.25	[60,70]	Ex Smoker	N
+5038	913	Men	65.25	[60,70]	Non Smoker	N
+5045	914	Men	67.5	[60,70]	Ex Smoker	P
+5052	915	Men	68.33	[60,70]	Non Smoker	N
+5059	916	Men	66.83	[60,70]	Non Smoker	P
+5066	917	Men	68.58	[60,70]	Non Smoker	P
+5073	918	Men	63.33	[60,70]	Ex Smoker	N
+5080	919	Men	65.58	[60,70]	Ex Smoker	N
+5087	920	Men	65.17	[60,70]	Non Smoker	N
+5094	921	Men	68.58	[60,70]	Non Smoker	N
+5101	922	Men	63.33	[60,70]	Non Smoker	N
+5108	923	Men	61.33	[60,70]	Non Smoker	P
+5115	924	Men	64.33	[60,70]	Ex Smoker	P
+5122	925	Men	66.33	[60,70]	Non Smoker	N
+5129	926	Men	64.75	[60,70]	Ex Smoker	P
+5136	927	Men	62.67	[60,70]	Ex Smoker	P
+5143	928	Men	64.58	[60,70]	Non Smoker	N
+5150	929	Men	60.83	[60,70]	Ex Smoker	N
+5157	930	Men	63.17	[60,70]	Ex Smoker	P
+5164	931	Men	64.17	[60,70]	Ex Smoker	N
+5171	932	Men	62.08	[60,70]	Smoker	N
+5178	933	Men	66.08	[60,70]	Smoker	N
+5185	934	Men	62.42	[60,70]	Ex Smoker	N
+5192	935	Men	60.5	[60,70]	Ex Smoker	N
+5199	936	Men	65.75	[60,70]	Ex Smoker	N
+5206	937	Men	68.25	[60,70]	Non Smoker	P
+5213	940	Men	65.58	[60,70]	Non Smoker	N
+5220	941	Men	62.67	[60,70]	Non Smoker	N
+5227	942	Men	63.83	[60,70]	Ex Smoker	P
+5234	943	Men	67.67	[60,70]	Smoker	N
+5241	944	Men	62.67	[60,70]	Ex Smoker	N
+5248	945	Men	63.75	[60,70]	Ex Smoker	N
+5255	946	Men	65.5	[60,70]	Non Smoker	N
+5262	947	Men	61.92	[60,70]	Ex Smoker	N
+5269	948	Men	62.08	[60,70]	Non Smoker	N
+5276	950	Men	60.67	[60,70]	Ex Smoker	N
+5283	951	Men	64.42	[60,70]	Ex Smoker	P
+5290	952	Men	63.67	[60,70]	Non Smoker	N
+5297	953	Men	64.08	[60,70]	Ex Smoker	P
+5304	954	Men	65.92	[60,70]	Non Smoker	N
+5311	955	Men	63.17	[60,70]	Ex Smoker	N
+5318	956	Men	65.83	[60,70]	Non Smoker	N
+5325	957	Men	60.17	[60,70]	Ex Smoker	P
+5332	958	Men	69.17	[60,70]	Ex Smoker	N
+5339	959	Men	61.42	[60,70]	Ex Smoker	N
+5346	961	Men	62.33	[60,70]	Non Smoker	N
+5353	962	Men	67.58	[60,70]	Ex Smoker	P
+5360	964	Men	64.75	[60,70]	Ex Smoker	N
+5367	965	Men	65.42	[60,70]	Non Smoker	P
+5374	966	Men	64.25	[60,70]	Non Smoker	P
+5381	967	Men	60.83	[60,70]	Ex Smoker	N
+5388	968	Men	61.83	[60,70]	Non Smoker	P
+5395	969	Men	61.25	[60,70]	Non Smoker	N
+5402	970	Men	69.75	[60,70]	Non Smoker	N
+5409	971	Men	61	[60,70]	Ex Smoker	P
+5416	972	Men	65.33	[60,70]	Ex Smoker	P
+5423	973	Men	60.58	[60,70]	Ex Smoker	N
+5430	975	Men	62.33	[60,70]	Ex Smoker	N
+5437	976	Men	61.75	[60,70]	Ex Smoker	P
+5444	977	Men	62.08	[60,70]	Non Smoker	N
+5451	978	Men	64.67	[60,70]	Ex Smoker	N
+5458	979	Men	64.17	[60,70]	Non Smoker	N
+5465	980	Men	60.5	[60,70]	Ex Smoker	N
+5472	982	Men	63.25	[60,70]	Ex Smoker	P
+5479	983	Men	63.25	[60,70]	Ex Smoker	P
+5486	984	Men	60.33	[60,70]	Non Smoker	N
+5493	985	Men	61.5	[60,70]	Ex Smoker	N
+5500	986	Men	65.75	[60,70]	Non Smoker	N
+5507	987	Men	60.92	[60,70]	Non Smoker	N
+5514	988	Men	64.08	[60,70]	Ex Smoker	P
+5521	989	Men	60.67	[60,70]	Non Smoker	P
+5528	991	Men	63.33	[60,70]	Non Smoker	P
+5535	993	Men	64.25	[60,70]	Ex Smoker	N
+5542	994	Men	66.75	[60,70]	Ex Smoker	N
+5549	995	Men	61.5	[60,70]	Ex Smoker	P
+5556	996	Men	60.75	[60,70]	Non Smoker	N
+5563	997	Men	63.08	[60,70]	Non Smoker	N
+5570	998	Men	65.67	[60,70]	Ex Smoker	N
+5577	999	Men	68.5	[60,70]	Non Smoker	N
+5584	1000	Men	62.67	[60,70]	Ex Smoker	P
+5591	5096	Women	20.67	[20,30)	Smoker	N
+5598	5122	Men	25	[20,30)	Non Smoker	N
+5605	5167	Men	21.42	[20,30)	Non Smoker	N
+5612	5219	Women	38.33	[30,40)	Ex Smoker	N
+5619	5279	Women	32.75	[30,40)	Non Smoker	N
+5626	5303	Men	39.17	[30,40)	Non Smoker	P
+5633	5701	Men	59	[50,60)	Non Smoker	P
